@@ -20,7 +20,7 @@ on:
         default: "false"
 
 env:
-  REPO_URL: https://github.com/coolsnowwolf/lede # 仓库 URL
+  REPO_URL: https://github.com/openwrt/openwrt # 仓库 URL
   REPO_BRANCH: master # 分支名称
   FEEDS_CONF: feeds.conf.default # 自定义 feeds 配置文件
   CONFIG_FILE: .config # 配置文件
